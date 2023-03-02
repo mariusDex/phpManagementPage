@@ -1,0 +1,52 @@
+{
+  "name": "2SI (PWA)",
+  "short_name": "2SI",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": ".",
+  "start_url": "index.php",
+  "icons": [
+    {
+      "src": "iconosPWA/72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "iconosPWA/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
